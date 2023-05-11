@@ -1,0 +1,7 @@
+{
+  "name": "myAppIo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
